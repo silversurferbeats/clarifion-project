@@ -280,18 +280,27 @@ function Home() {
               />
             </div>
             {/* section credit card*/}
-            <div className="container w-full text-sm p-1 mt-5 items-center rounded">
-              <div className="grid grid-cols-2 md:grid-cols-3 gap-0 md:gap-4 justify-center text-center h-20 md:h-12 border-2 border-zinc-300 rounded-lg text-zinc-500">
-                <div className="col-span-1 md:col-span-1">Free shipping</div>
+            <div className="container w-full text-xs md:text-sm p-1 mt-5 items-center rounded">
+              <div className="grid grid-cols-2 md:grid-cols-3 gap-0 md:gap-4 justify-center text-center h-20 md:h-12 border-2 border-zinc-300 rounded-lg text-zinc-500 divide-x">
+                <div className="col-span-1 md:col-span-1 flex justify-center items-center">Free shipping</div>
                 <div className="col-span-1 md:col-span-1 flex flex-row gap-1 justify-center items-center">
-                  <img
-                    className="w-3 h-3"
-                    src={padlockIcon}
-                    alt="padlockIcon"
-                  />
+                  <svg
+                    className="w-10 h-10 text-gray-300 ml-4"
+                    xmlns={padlockIcon}
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth="2"
+                      d="M12 11c0 .563-.186 1.087-.527 1.5m-.002 0A2.001 2.001 0 0110 15m4-3.5c.341-.413.527-.937.527-1.5m-4.055 1.5h4.055M6 19h12m-6-7v7m-6 0a2.002 2.002 0 012-2h8a2.002 2.002 0 012 2m-12-7V8a4 4 0 118 0v4"
+                    />
+                  </svg>
                   <p>Secure 256-bit SSL encryption.</p>
                 </div>
-                <div className="col-span-2 md:col-span-1 flex justify-center items-center">
+                <div className="col-span-2 md:col-span-1 flex justify-center items-center ">
                   <img
                     className="w-40 md:w-48"
                     src={groupCreditCard}
