@@ -9,16 +9,15 @@
   min-height: 100vh;
 }
 
-/* .navContainer {
-  width: 221vh;
+.navContainer {
+  width: 100vw;
   height: 3rem;
   margin-left: -6rem;
   margin-right: -6rem;
   background-color: #252f3d;
   text-align: center;
-
 }
-*/
+
 
 .footerContainer {
   width: 100vw;
@@ -36,8 +35,14 @@
     padding-right: 0rem;
   }
 
+  .navContainer {
+    margin-left: 0rem;
+    margin-right: 0rem;
+  }
+
   .footerContainer {
     margin-left: 0rem;
     margin-right: 0rem;
   }
+  
 } 

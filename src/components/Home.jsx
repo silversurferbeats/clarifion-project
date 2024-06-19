@@ -281,7 +281,7 @@ function Home() {
             </div>
             {/* section credit card*/}
             <div className="container w-full text-sm p-1 mt-5 items-center rounded">
-              <div className="grid grid-cols-2 md:grid-cols-3 gap-4 justify-center text-center h-20 md:h-12 border-2 border-zinc-300 rounded-lg text-zinc-500">
+              <div className="grid grid-cols-2 md:grid-cols-3 gap-0 md:gap-4 justify-center text-center h-20 md:h-12 border-2 border-zinc-300 rounded-lg text-zinc-500">
                 <div className="col-span-1 md:col-span-1">Free shipping</div>
                 <div className="col-span-1 md:col-span-1 flex flex-row gap-1 justify-center items-center">
                   <img

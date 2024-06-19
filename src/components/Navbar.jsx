@@ -19,10 +19,6 @@ function Navbar() {
             </a>
           </div>
           <div class="lg:flex lg:flex-1 lg:justify-end">
-            {/* <a href="#" class="text-sm font-semibold leading-6 text-gray-900">
-              Log in <span aria-hidden="true">&rarr;</span>
-            </a>
-             */}
               <img
                 class="h-4 md:h-8 w-auto"
                 src={imgIcon}
