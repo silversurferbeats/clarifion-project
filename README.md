@@ -1,30 +1,29 @@
 # React + Tailwind
+CLARIFION APP
 
-# A continuación, detallo el proceso seguido para desarrollar la aplicación de upsell, de acuerdo a las especificaciones proporcionadas:
+# Below, I outline the process followed to develop the upsell application according to the provided specifications:
 
-- 1. Revisión del Diseño en Figma:
+- 1. Review of the Design in Figma:
 
-Comencé revisando el diseño proporcionado en Figma para entender completamente la estructura, estilo y funcionalidad esperada. Presté especial atención a los detalles de diseño para asegurarme de que la implementación fuera pixel perfect.
+I started by reviewing the design provided in Figma to fully understand the expected structure, style, and functionality. I paid special attention to design details to ensure the implementation was pixel perfect.
 
-- 2. Configuración del Entorno de Desarrollo:
+- 2. Development Environment Setup:
 
-Configuré mi entorno de desarrollo utilizando React.js y Tailwind. Estas tecnologías fueron seleccionadas debido a su capacidad para ofrecer una personalización completa de la interfaz y su facilidad para escalar en el futuro.
+I set up my development environment using React.js and Tailwind. These technologies were selected due to their ability to offer complete interface customization and ease of future scalability.
 
-- 3. Implementación de la Interfaz de Usuario (UI):
+- 3. User Interface (UI) Implementation:
 
-Recreé la interfaz de usuario exactamente como se muestra en el diseño de Figma. Usé Tailwind para aplicar estilos de manera eficiente y mantener la coherencia visual.
+I recreated the user interface exactly as shown in the Figma design. I used Tailwind to apply styles efficiently and maintain visual consistency.
 
-- 4. Adaptabilidad a Móviles (Responsive Design):
+- 4. Mobile Responsiveness (Responsive Design):
 
-Aseguré que la aplicación fuera completamente responsive, verificando que el diseño se adaptara perfectamente a diferentes tamaños de pantalla, incluyendo dispositivos móviles y de escritorio. Utilicé las utilidades de Tailwind para ajustar el diseño a varias resoluciones.
+I ensured that the application was fully responsive, verifying that the design adapted perfectly to different screen sizes, including mobile and desktop devices. I utilized Tailwind's utilities to adjust the design to various resolutions.
 
-- 5. Pruebas y Validación:
+- 5. Testing and Validation:
 
-Realicé pruebas exhaustivas para asegurarme de que todas las funcionalidades y el diseño coincidieran exactamente con las especificaciones de Figma. Probé la aplicación en múltiples navegadores y dispositivos para asegurar la compatibilidad y una experiencia de usuario consistente.
+I conducted thorough testing to ensure that all functionalities and the design matched the Figma specifications exactly. I tested the application on multiple browsers and devices to ensure compatibility and a consistent user experience.
 
-- 6. Despliegue:
+- 6. Deployment:
 
-Desplegué la aplicación en Vercel, generando un enlace público accesible desde cualquier dispositivo. Esto facilita la revisión y pruebas adicionales por parte del equipo.
-
-
+I deployed the application on Vercel, generating a public link accessible from any device. This facilitates review and additional testing by the team.
 
