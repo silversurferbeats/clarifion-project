@@ -1,7 +1,8 @@
-# React + Tailwind
-CLARIFION APP
+# CLARIFION APP 
+React + Tailwind
 
-# Below, I outline the process followed to develop the upsell application according to the provided specifications:
+
+## Below, I outline the process followed to develop the upsell application according to the provided specifications:
 
 - 1. Review of the Design in Figma:
 
