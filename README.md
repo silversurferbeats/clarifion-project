@@ -7,7 +7,7 @@ React + Tailwind
 - 1. Review of the Design in Figma:
 
 I started by reviewing the design provided in Figma to fully understand the expected structure, style, and functionality. I paid special attention to design details to ensure the implementation was pixel perfect.
-[Link Figma:](https://www.figma.com/design/gHf56mhtFr0lXky0poofoQ/ejam---Clarifion-Upsell-[-Client-V-]-(Copy)?node-id=0-1&t=nI1WDejhJD6E4F03-0)
+[Link Figma](https://www.figma.com/design/gHf56mhtFr0lXky0poofoQ/ejam---Clarifion-Upsell-[-Client-V-]-(Copy)?node-id=0-1&t=nI1WDejhJD6E4F03-0)
 
 - 2. Development Environment Setup:
 
@@ -28,4 +28,5 @@ I conducted thorough testing to ensure that all functionalities and the design m
 - 6. Deployment:
 
 I deployed the application on Vercel, generating a public link accessible from any device. This facilitates review and additional testing by the team.
+[Link Project](https://clarifion-project-three.vercel.app)
 
