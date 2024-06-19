@@ -1,0 +1,43 @@
+#root {
+  padding-left: 6rem;
+  padding-right: 6rem;
+  margin: 0 auto;
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+}
+
+/* .navContainer {
+  width: 221vh;
+  height: 3rem;
+  margin-left: -6rem;
+  margin-right: -6rem;
+  background-color: #252f3d;
+  text-align: center;
+
+}
+*/
+
+.footerContainer {
+  width: 100vw;
+  margin-left: -6rem;
+  margin-right: -6rem;
+  background-color: #252f3d;
+  padding: 1rem;
+  text-align: center;
+}
+
+
+@media (max-width: 768px) {
+  #root {
+    padding-left: 0rem;
+    padding-right: 0rem;
+  }
+
+  .footerContainer {
+    margin-left: 0rem;
+    margin-right: 0rem;
+  }
+} 
